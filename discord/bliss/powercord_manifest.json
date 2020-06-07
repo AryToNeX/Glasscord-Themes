@@ -1,0 +1,10 @@
+{
+    "name": "Bliss",
+    "description": "A minimal flat theme with dark and light mode. Meant to be used with Glasscord.",
+    "version": "1.6",
+    "author": "katacarbix",
+    "license": "Apache-2.0",
+    "theme": "theme.css",
+    "preview": [ "https://raw.githubusercontent.com/AryToNeX/Glasscord-Themes/master/discord/bliss/preview-dark.png", "https://raw.githubusercontent.com/AryToNeX/Glasscord-Themes/master/discord/bliss/preview-light.png" ],
+	"consent": [ "ext_listing" ]
+}
